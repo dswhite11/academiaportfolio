@@ -1,5 +1,5 @@
 ---
-title: Deep Learning
+title: Lakers Game
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, eius.
 tags:
 - Demo
@@ -7,7 +7,7 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link:
 
 image:
   caption: Photo by Toa Heftiba on Unsplash
