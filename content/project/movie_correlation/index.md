@@ -29,3 +29,6 @@ I downloaded the dataset ‘Movie Industry’ from Kaggle.com for this project. 
 - Python
 
 ### Preview
+
+{{<figure src = "/img/Movie Correlation Project_13_1.png">}}
+{{<figure src = "/img/Movie Correlation Project_20_0.png">}}

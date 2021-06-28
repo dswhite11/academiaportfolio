@@ -28,3 +28,5 @@ A fun project using the built-in Lakers data from the Lubridate package. I pract
 - R
 
 ### Preview
+
+{{<figure src = "/img/lakers_screenshot.png">}}

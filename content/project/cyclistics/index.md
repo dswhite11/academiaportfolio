@@ -38,4 +38,8 @@ The report is extremely detailed and shows nearly all the steps I took in the an
 ### Languages used
 - SQL
 - R
-- Preview
+
+### Preview
+{{<figure src = "/img/cyclistics_anim_screenshot.gif" height = "25%" width = "25%">}}
+{{<figure src = "/img/mean_daily_ride_count.png" height = "25%" width = "25%">}}
+{{<figure src = "/img/ride_geographical_distribution.png" height = "25%" width = "25%">}}

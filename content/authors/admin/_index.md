@@ -80,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-Dave is a learner and a thinker. He is good at data analysis and is always looking for patterns and trends. His experience as a lawyer and a teacher have left him skilled at communication and public speaking. He is comfortable tackling complex issues and breaking them down into simple steps that anyone can understand.
+Dave is a learner and a thinker. He is good at data analysis and is always looking for patterns and trends. Dave refined his skills of communication and public speaking through his professional experience. He is comfortable tackling complex issues and breaking them down into simple steps that anyone can understand.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+With a diverse background in mathematics, law, and education, Dave has the analytical and critical thinking skills necessary to make intelligent business decisions in a fast-paced environment. Contact him today.
