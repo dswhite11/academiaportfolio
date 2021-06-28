@@ -14,15 +14,15 @@ btn:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: "Chattanooga"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I help people use data to solve problems.
 
 # Should the user's education and interests be displayed?
 display_education: false
@@ -51,7 +51,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:dswhite11@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -63,7 +63,7 @@ social:
   link: http://www.linkedin.com/in/dswhite11
 - icon: github
   icon_pack: fab
-  link: https://dswhite11.github.io
+  link: https://github.com/dswhite11
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
