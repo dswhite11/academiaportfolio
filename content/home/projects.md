@@ -27,19 +27,19 @@ subtitle = "ALL THINGS ARE DIFFICULT BEFORE THEY ARE EASY"
 
   [[content.filter_button]]
     name = "R"
-    tag = "r"
+    tag = "R"
 
   [[content.filter_button]]
     name = "SQL"
-    tag = "sql"
+    tag = "SQL"
 
   [[content.filter_button]]
     name = "Python"
-    tag = "python"
+    tag = "Python"
 
   [[content.filter_button]]
     name = "Tableau"
-    tag = "tableau"
+    tag = "Tableau"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

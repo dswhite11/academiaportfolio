@@ -1,11 +1,9 @@
 ---
-title: Cyclistics Project
-summary: Analysis of cycling data
+title: Lakers Project
+summary: Analysis of player performance in the first game of the season
 tags:
-- r
-- sql
-- tableau
-date: "2016-04-27T00:00:00Z"
+- R
+date: "2021-06-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link:

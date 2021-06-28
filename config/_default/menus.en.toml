@@ -5,8 +5,13 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#hero"
   weight = 10
+
+[[main]]
+  name = "About"
+  url = "#about"
+  weight = 11
 
 
 [[main]]
@@ -18,7 +23,7 @@
   name = "Projects"
   url = "#projects"
   weight = 30
-# 
+#
 # [[main]]
 #   name = "Certifications"
 #   url = "#certifications"
@@ -27,7 +32,7 @@
 [[main]]
   name = "CV"
   url = "files/cv.pdf"
-  weight = 50
+  weight = 70
 
 [[main]]
   name = "Contact"
