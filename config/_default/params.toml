@@ -15,13 +15,13 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Portfolio website for data analyst"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
 sharing_image = ""
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
+twitter = "the_nth_dave"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -53,7 +53,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "dswhite11@gmail.com"
+email = "https://formspree.io/f/xoqylwwo"
 phone = "(423) 708-5271"
 address = "Chattanooga, TN"
 
@@ -164,3 +164,7 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+[contact]
+  form = "formspree"
+  id = "https://formspree.io/f/xoqylwwo"
