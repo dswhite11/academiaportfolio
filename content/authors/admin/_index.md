@@ -1,7 +1,7 @@
 ---
 # Display name
 name: David White
-avatar_image: "user-full.png"
+avatar_image: "barney.jpeg"
 # Username (this should match the folder name)
 authors:
 - admin
@@ -51,10 +51,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:dswhite11@gmail.com'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/the_nth_dave
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

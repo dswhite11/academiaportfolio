@@ -54,7 +54,7 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "dswhite11@gmail.com"
-phone = "662 231 3930"
+phone = "(423) 708-5271"
 address = "Chattanooga, TN"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
@@ -62,15 +62,15 @@ address = "Chattanooga, TN"
 #                  Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+#appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "http://www.linkedin.com/in/dswhite11"},
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/the_nth_dave"},
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
@@ -90,7 +90,7 @@ contact_links = [
 #   1: Google Maps
 #   2: OpenStreetMap (Mapnik)
 #   3: OpenStreetMap (Mapbox)
-map = 2
+map = 0
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 latitude = "37.4275"
 longitude = "-122.1697"

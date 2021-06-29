@@ -34,12 +34,9 @@ hero_media = "barney.jpeg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [btn]
-  url = "/authors/admin"
-  label = "Know more"
-
-[btn_alt]
   url = "#contact"
   label = "Contact me"
+
 
 +++
 ## My name is **Dave** and I'm a **data analyst**  in Chattanooga, TN
