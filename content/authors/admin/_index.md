@@ -18,31 +18,27 @@ role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: "Chattanooga"
+- name: "Chattanooga, TN"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I help people use data to solve problems.
 
 # Should the user's education and interests be displayed?
-display_education: false
+display_education: true
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Data analysis
+#- Data visualization
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Juris Doctorate
+    institution: MS College School of Law
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BS in Mathematics
+    institution: University of Mississippi
+    year: 2007
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

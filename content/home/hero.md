@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Davester9"
+title = "Dave White - Data Analyst"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "barney.jpeg"
@@ -24,8 +24,8 @@ hero_media = "barney.jpeg"
   # gradient_end = "#000"
 
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   #image = "background_hero.jpg"  # Name of image in `static/img/`.
+   #image_darken = 0.1  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -41,4 +41,4 @@ hero_media = "barney.jpeg"
 +++
 ## My name is **Dave** and I'm a **data analyst**  in Chattanooga, TN
 
-I like to help people use data to solve problems. I also like to play with my daughters.
+I help people use data to solve problems. I also like to play with my daughters.
