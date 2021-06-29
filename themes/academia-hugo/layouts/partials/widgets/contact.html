@@ -43,6 +43,7 @@
         </div>
         <button type="submit"
           class="btn btn-outline-primary px-3 py-2">{{ i18n "contact_send" | default "Send" }}</button>
+        <button type="reset" class="btn btn-outline-primary px-3 py-2">Reset</button>
       </form>
     </div>
     {{end}}
@@ -68,6 +69,7 @@
         </span>
       </li>
       {{ end }}
+
 
       {{ with site.Params.address }}
       <li>

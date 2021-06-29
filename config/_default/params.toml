@@ -69,9 +69,10 @@ address = "Chattanooga, TN"
 contact_links = [
   {icon = "linkedin", icon_pack = "fab", name = "LinkedIn", link = "http://www.linkedin.com/in/dswhite11"},
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/the_nth_dave"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  {icon = "github", icon_pack = "fab", name = "GitHub", link = "http://www.github.com/dswhite11"}
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
