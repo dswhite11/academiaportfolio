@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Academia</title>
+    <link>https://dswhite11.github.io/portfolio/tags/python/</link>
+    <description>Recent content in Python on Academia</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dswhite11.github.io/portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Movie Correlation Analysis</title>
+      <link>https://dswhite11.github.io/portfolio/project/movie_correlation/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/movie_correlation/</guid>
+      <description>&lt;p&gt;I downloaded the dataset ‘Movie Industry’ from Kaggle.com for this project. I wanted to see if there were any particular features about movies – their budget, or the company that filmed them, or their director, etc. – that correlated with gross earnings. After cleaning the data, I generated heat maps to show relationships between the different features in the dataset. I concluded that the strongest correlations to gross earnings were a movie’s budget and the number of votes it received.&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Used &lt;strong&gt;pandas&lt;/strong&gt; to import dataset into a dataframe&lt;/li&gt;
+&lt;li&gt;Generated scatterplots using &lt;strong&gt;matplotlib&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Looked for missing data using &lt;strong&gt;numpy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Converted object data to category/numerical data for better analysis&lt;/li&gt;
+&lt;li&gt;Used &lt;strong&gt;seaborn&lt;/strong&gt; to generate a regression line over a scatterplot&lt;/li&gt;
+&lt;li&gt;Used &lt;strong&gt;seaborn&lt;/strong&gt; to generate a heatmap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jupyter Notebooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/Movie%20Correlation%20Project_13_1.png&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/Movie%20Correlation%20Project_20_0.png&#34; &gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

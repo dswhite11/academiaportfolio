@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Academia</title>
+    <link>https://dswhite11.github.io/portfolio/project/</link>
+    <description>Recent content in Projects on Academia</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Thu, 08 Jul 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://dswhite11.github.io/portfolio/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chattanooga 911 Calls Dashboard</title>
+      <link>https://dswhite11.github.io/portfolio/project/911calls/</link>
+      <pubDate>Thu, 08 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/911calls/</guid>
+      <description>&lt;p&gt;I created this report from an R Notebook as the capstone project to Google’s Data Analytics Certificate course, hosted on Coursera. The purpose of the project was to analyze the data of a bike-share company in Chicago, and provide recommendations to the company’s marketing team for their new ad campaign.&lt;/p&gt;
+&lt;p&gt;The report is extremely detailed and shows nearly all the steps I took in the analysis process. It begins with uploading and manipulating the data in PostgreSQL and Excel, then moves to cleaning and reorganizing the data, and ends with visualizations created in RStudio and Tableau.&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Used SQL to combined datasets and explore data&lt;/li&gt;
+&lt;li&gt;Calculated ride times in SQL, and cleaned data of negative ride times&lt;/li&gt;
+&lt;li&gt;Using SQL, calculated mean ride times, weekend and weekday ride counts, mean weekend and weekday ride counts by month&lt;/li&gt;
+&lt;li&gt;Used R and Lubridate library to converted ride times (HH:MM:SS) to decimals&lt;/li&gt;
+&lt;li&gt;Used SQL to clean the latitude and longitude data&lt;/li&gt;
+&lt;li&gt;Plotted mean ride times, weekend/weekday ride counts, mean weekend/weekday ride counts using ggplot2 library&lt;/li&gt;
+&lt;li&gt;Created map visualizations in Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Postico&lt;/li&gt;
+&lt;li&gt;Excel&lt;/li&gt;
+&lt;li&gt;RStudio&lt;/li&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/cyclistics_anim_screenshot.gif&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/mean_daily_ride_count.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/ride_geographical_distribution.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cyclistics Bike-Share Analysis Report</title>
+      <link>https://dswhite11.github.io/portfolio/project/cyclistics/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/cyclistics/</guid>
+      <description>&lt;p&gt;I created this report from an R Notebook as the capstone project to Google’s Data Analytics Certificate course, hosted on Coursera. The purpose of the project was to analyze the data of a bike-share company in Chicago, and provide recommendations to the company’s marketing team for their new ad campaign.&lt;/p&gt;
+&lt;p&gt;The report is extremely detailed and shows nearly all the steps I took in the analysis process. It begins with uploading and manipulating the data in PostgreSQL and Excel, then moves to cleaning and reorganizing the data, and ends with visualizations created in RStudio and Tableau.&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Used SQL to combined datasets and explore data&lt;/li&gt;
+&lt;li&gt;Calculated ride times in SQL, and cleaned data of negative ride times&lt;/li&gt;
+&lt;li&gt;Using SQL, calculated mean ride times, weekend and weekday ride counts, mean weekend and weekday ride counts by month&lt;/li&gt;
+&lt;li&gt;Used R and Lubridate library to converted ride times (HH:MM:SS) to decimals&lt;/li&gt;
+&lt;li&gt;Used SQL to clean the latitude and longitude data&lt;/li&gt;
+&lt;li&gt;Plotted mean ride times, weekend/weekday ride counts, mean weekend/weekday ride counts using ggplot2 library&lt;/li&gt;
+&lt;li&gt;Created map visualizations in Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL&lt;/li&gt;
+&lt;li&gt;Postico&lt;/li&gt;
+&lt;li&gt;Excel&lt;/li&gt;
+&lt;li&gt;RStudio&lt;/li&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;SQL&lt;/li&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/cyclistics_anim_screenshot.gif&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/mean_daily_ride_count.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/ride_geographical_distribution.png&#34; width=&#34;25%&#34; height=&#34;25%&#34; &gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lakers Project</title>
+      <link>https://dswhite11.github.io/portfolio/project/lakers_project/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/lakers_project/</guid>
+      <description>&lt;p&gt;A fun project using the built-in Lakers data from the Lubridate package. I practiced filtering and plotting with ggplot2 to analyze each Laker’s performance in the first game of the season, against the Portland Trailblazers. The notebook goes through every step of my thinking process, so if it seems tedious and wordy, that’s why.&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Data comes from the Lubridate library in R&lt;/li&gt;
+&lt;li&gt;Filtered the data using dplyr library&lt;/li&gt;
+&lt;li&gt;Used ggplot2 to create visualization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;RStudio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/lakers_screenshot.png&#34; &gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Movie Correlation Analysis</title>
+      <link>https://dswhite11.github.io/portfolio/project/movie_correlation/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/movie_correlation/</guid>
+      <description>&lt;p&gt;I downloaded the dataset ‘Movie Industry’ from Kaggle.com for this project. I wanted to see if there were any particular features about movies – their budget, or the company that filmed them, or their director, etc. – that correlated with gross earnings. After cleaning the data, I generated heat maps to show relationships between the different features in the dataset. I concluded that the strongest correlations to gross earnings were a movie’s budget and the number of votes it received.&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Used &lt;strong&gt;pandas&lt;/strong&gt; to import dataset into a dataframe&lt;/li&gt;
+&lt;li&gt;Generated scatterplots using &lt;strong&gt;matplotlib&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Looked for missing data using &lt;strong&gt;numpy&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Converted object data to category/numerical data for better analysis&lt;/li&gt;
+&lt;li&gt;Used &lt;strong&gt;seaborn&lt;/strong&gt; to generate a regression line over a scatterplot&lt;/li&gt;
+&lt;li&gt;Used &lt;strong&gt;seaborn&lt;/strong&gt; to generate a heatmap&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Jupyter Notebooks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/Movie%20Correlation%20Project_13_1.png&#34; &gt;
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://dswhite11.github.io/portfolio/img/Movie%20Correlation%20Project_20_0.png&#34; &gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reading Log Visualization</title>
+      <link>https://dswhite11.github.io/portfolio/project/reading_log/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dswhite11.github.io/portfolio/project/reading_log/</guid>
+      <description>&lt;p&gt;This project is a visualization of all the books I read in 2020. It is interactive, and allows the user to read my review of each book by selecting an icon on the chart at the top. Selecting an icon will also highlight the book’s page count in the bar graph.&lt;/p&gt;
+&lt;p&gt;I used a web-scraping program based in R to scrape the GoodReads.com website for page numbers for all of the books.&lt;/p&gt;
+&lt;h3 id=&#34;highlights&#34;&gt;Highlights&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Stored data in Google Sheets&lt;/li&gt;
+&lt;li&gt;Used Tableau to create visualization&lt;/li&gt;
+&lt;li&gt;Used web-scraping tool in R to gather data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;applications-used&#34;&gt;Applications used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Tableau&lt;/li&gt;
+&lt;li&gt;Google Sheets&lt;/li&gt;
+&lt;li&gt;RStudio&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages-used&#34;&gt;Languages used&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;R&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;preview&#34;&gt;Preview&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
