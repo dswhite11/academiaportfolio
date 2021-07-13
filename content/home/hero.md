@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Dave White - Data Analyst"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "barney.jpeg"
+hero_media = "IMG_0970.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
